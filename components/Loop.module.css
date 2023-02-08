@@ -1,0 +1,10 @@
+.loop {
+    width: 26;
+    height: 26;
+    transition: transform 0.2s;
+}
+
+.loop:hover {
+    cursor: pointer;
+    transform: scale(1.2);
+}
